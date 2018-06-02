@@ -24,5 +24,25 @@
   "customer": {
     "dataSource": "ReservationDS",
     "public": true
-  }
+  },
+    "User":{
+        "dataSource": "ReservationDS",
+        "public": false
+    },
+    "AccessToken":{
+        "dataSource": "ReservationDS",
+        "public": false
+    },
+    "ACL":{
+        "dataSource": "ReservationDS",
+        "public": false
+    },
+    "RoleMapping":{
+        "dataSource": "ReservationDS",
+        "public": false
+    },
+    "Role":{
+        "dataSource": "ReservationDS",
+        "public": false
+    }
 }
