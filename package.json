@@ -17,6 +17,7 @@
     "loopback": "^3.19.2",
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^6.0.0",
+    "nodemon": "^1.17.5",
     "raven": "^2.6.2",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^2.0.0"
