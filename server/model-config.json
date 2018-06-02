@@ -20,5 +20,9 @@
   "reservation": {
     "dataSource": "ReservationDS",
     "public": true
+  },
+  "customer": {
+    "dataSource": "ReservationDS",
+    "public": true
   }
 }
