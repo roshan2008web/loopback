@@ -45,7 +45,11 @@
     "dataSource": "ReservationDS",
     "public": false
   },
-    "Email": {
+  "Email": {
     "dataSource": "emailDS"
+  },
+  "container": {
+    "dataSource": "photos",
+    "public": true
   }
 }
